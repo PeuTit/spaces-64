@@ -7,3 +7,5 @@
 /keycaps: All the keycaps size for 3D printing
 
 /assets: Schema, pictures of the keyboard
+
+Powered by a custom QMK firmware
